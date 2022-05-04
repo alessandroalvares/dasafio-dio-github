@@ -40,6 +40,8 @@ git status (ver o status da pasta)
 git config --list 
 
 
-git log
-git log --oneline
-git log -p
+git log (ver alterações)
+
+git log --oneline (ver alterações reduzidas)
+
+git log -p (ver alterações ampliadas)
